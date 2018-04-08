@@ -1,5 +1,7 @@
 # GoProj18
-Instructions for Project 2018 for Graph Theory
+Instructions for Project 2018 for Graph Theory 
+
+3rd Year Software Development - GMIT
 
 
 ## A Program in GO 
@@ -13,7 +15,7 @@ Please visit this link: https://golang.org/doc/install?download=go1.5.windows-am
 
 
 # Instructions 
-- Step 1: In cmd or terminal, git clone https://github.com/smoran98/GoProj18.git
+- Step 1: In cmd or terminal, git clone https://github.com/smoran98/GT18.git
 - Step 2: Navigate to, GoProj18
 - Step 3: go build main.go
 - Step 4: main.exe or go run main.go
