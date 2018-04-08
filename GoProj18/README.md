@@ -2,6 +2,11 @@
 Instructions for Project 2018 for Graph Theory
 
 
+## A Program in GO 
+![](https://pbs.twimg.com/profile_images/867034392891457537/2_PUj0BC_400x400.jpg)
+
+
+
 # Installing go
 Please visit this link: https://golang.org/doc/install?download=go1.5.windows-amd64.msi2
 
@@ -130,6 +135,3 @@ Google. The go programming language.
 
 https://golang.org/.
 
-
-## A Program in GO 
-![](https://pbs.twimg.com/profile_images/867034392891457537/2_PUj0BC_400x400.jpg)
